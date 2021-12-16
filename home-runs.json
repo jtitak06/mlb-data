@@ -2,103 +2,103 @@
     [
         {
             "name": "Barry Bonds",
-            "home-runs": 762
+            "homeruns": 762
         },
         {
             "name": "Hank Aaron",
-            "home-runs": 755
+            "homeruns": 755
         },
         {
             "name": "Babe Ruth",
-            "home-runs": 714
+            "homeruns": 714
         },
         {
             "name": "Alex Rodriguez",
-            "home-runs": 696
+            "homeruns": 696
         },
         {
             "name": "Albert Pujols",
-            "home-runs": 679
+            "homeruns": 679
         },
         {
             "name": "Willie Mays",
-            "home-runs": 660
+            "homeruns": 660
         },
         {
             "name": "Ken Griffey Jr.",
-            "home-runs": 630
+            "homeruns": 630
         },
         {
             "name": "Jim Thome",
-            "home-runs": 612
+            "homeruns": 612
         },
         {
             "name": "Sammy Sosa",
-            "home-runs": 609
+            "homeruns": 609
         },
         {
             "name": "Frank Robinson",
-            "home-runs": 586
+            "homeruns": 586
         },
         {
             "name": "Mark McGwire",
-            "home-runs": 583
+            "homeruns": 583
         },
         {
             "name": "Harmon Killebrew",
-            "home-runs": 573
+            "homeruns": 573
         },
         {
             "name": "Rafael Palmeiro",
-            "home-runs": 569
+            "homeruns": 569
         },
         {
             "name": "Reggie Jackson",
-            "home-runs": 563
+            "homeruns": 563
         },
         {
             "name": "Manny Ramirez",
-            "home-runs": 555
+            "homeruns": 555
         },
         {
             "name": "Mike Schmidt",
-            "home-runs": 548
+            "homeruns": 548
         },
         {
             "name": "David Ortiz",
-            "home-runs": 541
+            "homeruns": 541
         },
         {
             "name": "Mickey Mantle",
-            "home-runs": 536
+            "homeruns": 536
         },
         {
             "name": "Jimmie Foxx",
-            "home-runs": 534
+            "homeruns": 534
         },
         {
             "name": "Willie McCovey",
-            "home-runs": 521
+            "homeruns": 521
         },
         {
             "name": "Frank Thomas",
-            "home-runs": 521
+            "homeruns": 521
         },
         {
             "name": "Ted Williams",
-            "home-runs": 521
+            "homeruns": 521
         },
         {
             "name": "Ernie Banks",
-            "home-runs": 512
+            "homeruns": 512
         },
         {
             "name": "Eddie Mathews",
-            "home-runs": 512
+            "homeruns": 512
         },
         {
             "name": "Mel Ott",
-            "home-runs": 511
+            "homeruns": 511
         }
     ]
 }
