@@ -5,6 +5,10 @@
             "RBIs": 2297
         },
         {
+            "name": "Babe Ruth",
+            "RBIs": 2213
+        },
+        {
             "name": "Albert Pujols",
             "RBIs": 2150
         },
@@ -21,12 +25,12 @@
             "RBIs": 1995
         },
         {
-            "name": "Babe Ruth",
-            "RBIs": 1983
-        },
-        {
             "name": "Stan Musial",
             "RBIs": 1951
+        },
+        {
+            "name": "Ty Cobb",
+            "RBIs": 1937
         },
         {
             "name": "Jimmie Foxx",
@@ -39,6 +43,10 @@
         {
             "name": "Willie Mays",
             "RBIs": 1903
+        },
+        {
+            "name": "Cap Anson",
+            "RBIs": 1879
         },
         {
             "name": "Mel Ott",
@@ -62,7 +70,7 @@
         },
         {
             "name": "Dave Winfield",
-            "RBIs": 1834
+            "RBIs": 1833
         },
         {
             "name": "Manny Ramirez",
@@ -85,20 +93,12 @@
             "RBIs": 1768
         },
         {
+            "name": "Honus Wagner",
+            "RBIs": 1732
+        },
+        {
             "name": "Adrian Beltre",
             "RBIs": 1707
-        },
-        {
-            "name": "Frank Thomas",
-            "RBIs": 1704
-        },
-        {
-            "name": "Reggie Jackson",
-            "RBIs": 1702
-        },
-        {
-            "name": "Jim Thome",
-            "RBIs": 1699
         }
     ]
 }
